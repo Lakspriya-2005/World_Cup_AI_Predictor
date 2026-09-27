@@ -1,0 +1,26 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Node modules
+client/node_modules/
+
+# Build files
+client/dist/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large ML model
+models/world_cup_result_model.pkl
